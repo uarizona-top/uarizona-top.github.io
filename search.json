@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Heat Resiliency in Arizona",
+    "section": "",
+    "text": "This is our welcome page! hopefully we could include links like we do in our figma here soon. For now, all the links are in the navigation bar."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Our Team\n\n\n\nBio about Chenchen\n\n\n\n\n\nBio About salena\n\n\n\n\n\nBio about Alex\n\n\n\n\n\nBio about Lia\n\n\n\n\n\nBio about Sarah\n\n\n\n\n\nBio about Adriana"
+  },
+  {
+    "objectID": "testpage.html",
+    "href": "testpage.html",
+    "title": "TOPS_Dashboard",
+    "section": "",
+    "text": "What happens here?"
+  },
+  {
+    "objectID": "DataAndFigures.html",
+    "href": "DataAndFigures.html",
+    "title": "Data and Figures",
+    "section": "",
+    "text": "Include the graphs here (shiny website/code)"
+  },
+  {
+    "objectID": "DatosYGraficos.html",
+    "href": "DatosYGraficos.html",
+    "title": "Datos y Graficos",
+    "section": "",
+    "text": "Need to figure out accents"
+  },
+  {
+    "objectID": "HelpAndResources.html",
+    "href": "HelpAndResources.html",
+    "title": "How to help and get help",
+    "section": "",
+    "text": "keep this title?"
+  }
+]
